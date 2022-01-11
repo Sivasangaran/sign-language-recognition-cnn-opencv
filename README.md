@@ -1,0 +1,2 @@
+# sign-language-recognition-cnn-opencv
+Sign language classification system using Python (CNN) and OpenCV  (using ASL dataset). The system is essentially an executable, which captures  a series of finger gestures and gives the corresponding letters as an output  and mails it to the desired recipient. Finger images are captured using  webcam, some image processing is done to extract foreground from the  captured image and the resulting image classified using a CNN model and the  classified output is sent to the desired recipient via mail.
